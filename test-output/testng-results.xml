@@ -2,60 +2,60 @@
 <testng-results ignored="0" total="11" passed="11" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-11-07T15:48:11 EET" name="Default suite" finished-at="2024-11-07T15:48:17 EET" duration-ms="6103">
+  <suite started-at="2024-11-08T13:38:07 EET" name="Default suite" finished-at="2024-11-08T13:38:16 EET" duration-ms="9354">
     <groups>
     </groups>
-    <test started-at="2024-11-07T15:48:11 EET" name="Default test" finished-at="2024-11-07T15:48:17 EET" duration-ms="6103">
+    <test started-at="2024-11-08T13:38:07 EET" name="Default test" finished-at="2024-11-08T13:38:16 EET" duration-ms="9354">
       <class name="tests.GetandPost">
-        <test-method signature="testGet()[pri:0, instance:tests.GetandPost@290222c1]" started-at="2024-11-07T15:48:11 EET" name="testGet" finished-at="2024-11-07T15:48:15 EET" duration-ms="3664" status="PASS">
+        <test-method signature="testGet()[pri:0, instance:tests.GetandPost@2794eab6]" started-at="2024-11-08T13:38:07 EET" name="testGet" finished-at="2024-11-08T13:38:13 EET" duration-ms="6298" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testGet -->
-        <test-method signature="testPost()[pri:0, instance:tests.GetandPost@290222c1]" started-at="2024-11-07T15:48:15 EET" name="testPost" finished-at="2024-11-07T15:48:15 EET" duration-ms="12" status="PASS">
+        <test-method signature="testPost()[pri:0, instance:tests.GetandPost@2794eab6]" started-at="2024-11-08T13:38:13 EET" name="testPost" finished-at="2024-11-08T13:38:13 EET" duration-ms="12" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testPost -->
-        <test-method signature="testPost2()[pri:0, instance:tests.GetandPost@290222c1]" started-at="2024-11-07T15:48:15 EET" name="testPost2" finished-at="2024-11-07T15:48:15 EET" duration-ms="409" status="PASS">
+        <test-method signature="testPost2()[pri:0, instance:tests.GetandPost@2794eab6]" started-at="2024-11-08T13:38:13 EET" name="testPost2" finished-at="2024-11-08T13:38:14 EET" duration-ms="436" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testPost2 -->
       </class> <!-- tests.GetandPost -->
       <class name="tests.PutPatchDelete">
-        <test-method signature="testDelete()[pri:0, instance:tests.PutPatchDelete@1b11171f]" started-at="2024-11-07T15:48:15 EET" name="testDelete" finished-at="2024-11-07T15:48:16 EET" duration-ms="225" status="PASS">
+        <test-method signature="testDelete()[pri:0, instance:tests.PutPatchDelete@738dc9b]" started-at="2024-11-08T13:38:14 EET" name="testDelete" finished-at="2024-11-08T13:38:14 EET" duration-ms="329" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testDelete -->
-        <test-method signature="testPatch()[pri:0, instance:tests.PutPatchDelete@1b11171f]" started-at="2024-11-07T15:48:16 EET" name="testPatch" finished-at="2024-11-07T15:48:16 EET" duration-ms="266" status="PASS">
+        <test-method signature="testPatch()[pri:0, instance:tests.PutPatchDelete@738dc9b]" started-at="2024-11-08T13:38:14 EET" name="testPatch" finished-at="2024-11-08T13:38:14 EET" duration-ms="265" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testPatch -->
-        <test-method signature="testPut()[pri:0, instance:tests.PutPatchDelete@1b11171f]" started-at="2024-11-07T15:48:16 EET" name="testPut" finished-at="2024-11-07T15:48:16 EET" duration-ms="282" status="PASS">
+        <test-method signature="testPut()[pri:0, instance:tests.PutPatchDelete@738dc9b]" started-at="2024-11-08T13:38:14 EET" name="testPut" finished-at="2024-11-08T13:38:15 EET" duration-ms="294" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testPut -->
       </class> <!-- tests.PutPatchDelete -->
       <class name="tests.Get">
-        <test-method signature="test_1()[pri:0, instance:tests.Get@2dc54ad4]" started-at="2024-11-07T15:48:16 EET" name="test_1" finished-at="2024-11-07T15:48:16 EET" duration-ms="125" status="PASS">
+        <test-method signature="test_1()[pri:0, instance:tests.Get@63376bed]" started-at="2024-11-08T13:38:15 EET" name="test_1" finished-at="2024-11-08T13:38:15 EET" duration-ms="121" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test_1 -->
-        <test-method signature="test_2()[pri:0, instance:tests.Get@2dc54ad4]" started-at="2024-11-07T15:48:16 EET" name="test_2" finished-at="2024-11-07T15:48:16 EET" duration-ms="108" status="PASS">
+        <test-method signature="test_2()[pri:0, instance:tests.Get@63376bed]" started-at="2024-11-08T13:38:15 EET" name="test_2" finished-at="2024-11-08T13:38:15 EET" duration-ms="190" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test_2 -->
       </class> <!-- tests.Get -->
       <class name="tests.SoapXMLRequest">
-        <test-method signature="validateSoapXML()[pri:0, instance:tests.SoapXMLRequest@4659191b]" started-at="2024-11-07T15:48:16 EET" name="validateSoapXML" finished-at="2024-11-07T15:48:17 EET" duration-ms="653" status="PASS">
+        <test-method signature="validateSoapXML()[pri:0, instance:tests.SoapXMLRequest@4145bad8]" started-at="2024-11-08T13:38:15 EET" name="validateSoapXML" finished-at="2024-11-08T13:38:16 EET" duration-ms="757" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validateSoapXML -->
       </class> <!-- tests.SoapXMLRequest -->
       <class name="tests.TestsExamples">
-        <test-method signature="test_1()[pri:0, instance:tests.TestsExamples@55634720]" started-at="2024-11-07T15:48:17 EET" name="test_1" finished-at="2024-11-07T15:48:17 EET" duration-ms="95" status="PASS">
+        <test-method signature="test_1()[pri:0, instance:tests.TestsExamples@d86a6f]" started-at="2024-11-08T13:38:16 EET" name="test_1" finished-at="2024-11-08T13:38:16 EET" duration-ms="124" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test_1 -->
-        <test-method signature="test_2()[pri:0, instance:tests.TestsExamples@55634720]" started-at="2024-11-07T15:48:17 EET" name="test_2" finished-at="2024-11-07T15:48:17 EET" duration-ms="99" status="PASS">
+        <test-method signature="test_2()[pri:0, instance:tests.TestsExamples@d86a6f]" started-at="2024-11-08T13:38:16 EET" name="test_2" finished-at="2024-11-08T13:38:16 EET" duration-ms="242" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test_2 -->
